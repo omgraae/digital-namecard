@@ -98,7 +98,7 @@ body {
 
 .bottom-section {
     position: absolute;
-    top: 0.7in; /* Adjust this value to position the contact details higher up */
+    top: 0.55in; /* Adjust this value to position the contact details higher up */
     right: 0.2in;
     text-align: right;
 }
@@ -248,33 +248,48 @@ body {
                 const container = document.getElementById("bottom-section");
                 const sections = [
                   {
+                    title: "Phone Number",
                     icon: "assets/icon-phone.svg",
                     alt: "Phone Icon",
                     text: contactData.phone,
                     href: "tel:" + contactData.phone.replace(/[() ]/g, ""),
                   },
                   {
+                    title: "Private e-mail address",
                     icon: "assets/icon-email.svg",
                     alt: "Email Icon",
                     text: contactData.emails[0],
                     href: "mailto:" + contactData.emails[0],
                   },
                   {
+                    title: "Work e-mail address",
+                    icon: "assets/icon-email.svg",
+                    alt: "Email Icon",
+                    text: contactData.emails[1],
+                    href: "mailto:" + contactData.emails[1],
+                  },
+                  {
+                    title: "Fediverse SoMe ID",
                     icon: "assets/icon-mastodon.svg",
                     alt: "Mastodon Icon",
                     text: contactData.mastodon.replace(
                       /^https:\/\/(.+?)\/@(.+)$/,
-                      "$2@$1"
+                      "@$2@$1"
                     ),
                     href: contactData.mastodon,
                   },
                   {
+                    title: "My instant messenger ID",
                     icon: "assets/icon-threema.svg",
                     alt: "Threema Icon",
-                    text: "My Threema ID",
+                    text: contactData.threema.replace(
+                      /^https:\/\/(.+?)\/(.+)$/,
+                      "$2"
+                    ),
                     href: contactData.threema,
                   },
                   {
+                    title: "Real world location",
                     icon: "assets/icon-address.svg",
                     alt: "Address Icon",
                     text: "Vessø Have 23, 8680 Ry",
@@ -283,7 +298,7 @@ body {
                 ];
                 sections.forEach((section) => {
                   const secElem = document.createElement("paragraph");
-                  secElem.innerHTML = `<p><a href="${section.href}"><img class="icon" src="${section.icon}" alt="${section.alt}">${section.text}</a></p>`;
+                  secElem.innerHTML = `<p><a href="${section.href}" title="${section.title}">${section.text}&nbsp<img class="icon" src="${section.icon}" alt="${section.alt}"/></a></p>`;
                   container.appendChild(secElem);
                 });
               } catch (error) {

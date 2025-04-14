@@ -1,2 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 48 48" id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="cls-1" d="M24,4.5C13.92,4.5,5.74,10.82,5.74,18.61a12.66,12.66,0,0,0,5.06,9.73L7.34,35l10.2-3.21a22.88,22.88,0,0,0,6.46.93c10.08,0,18.26-6.31,18.26-14.1S34.08,4.5,24,4.5Zm0,4.15a5,5,0,0,1,5,5v4.15h.71a1,1,0,0,1,.95.95h0V26a1,1,0,0,1-.95.95H18.31a1,1,0,0,1-.95-.95h0V18.73a1,1,0,0,1,.95-.95H19V13.63A5,5,0,0,1,24,8.65Z"/><circle class="cls-1" cx="13.63" cy="40.6" r="2.9"/><circle class="cls-1" cx="24" cy="40.6" r="2.9"/><circle class="cls-1" cx="34.37" cy="40.6" r="2.9"/><line class="cls-1" x1="19.02" y1="17.78" x2="28.98" y2="17.78"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 48 48"
+   id="Layer_2"
+   data-name="Layer 2"
+   version="1.1"
+   sodipodi:docname="icon-threema.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="false"
+     inkscape:zoom="0.77366788"
+     inkscape:cx="407.15145"
+     inkscape:cy="446.57405"
+     inkscape:window-width="1904"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     transform="translate(2.3265797,-14.269689)">
+    <ellipse
+       style="fill:#1f8742;fill-opacity:1;stroke:#1f8742;stroke-width:1.43054;stroke-dasharray:none;stroke-opacity:1"
+       id="path7"
+       cx="11.24991"
+       cy="54.887703"
+       rx="2.6847508"
+       ry="2.6847506"
+       inkscape:label="dot3" />
+    <ellipse
+       style="fill:#1f8742;fill-opacity:1;stroke:#1f8742;stroke-width:1.43054;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse9"
+       cx="32.111576"
+       cy="54.965256"
+       rx="2.6847508"
+       ry="2.6847506"
+       inkscape:label="dot1" />
+    <ellipse
+       style="fill:#1f8742;fill-opacity:1;stroke:#1f8742;stroke-width:1.43054;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse10"
+       cx="21.719519"
+       cy="54.81015"
+       rx="2.6847508"
+       ry="2.6847506"
+       inkscape:label="dot1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <path
+       class="cls-1"
+       d="m 24,4.5 c -10.08,0 -18.26,6.32 -18.26,14.11 0.121417,3.843489 1.9831484,7.423459 5.06,9.73 L 7.34,35 17.54,31.79 c 2.097828,0.617108 4.273289,0.930294 6.46,0.93 10.08,0 18.26,-6.31 18.26,-14.1 C 42.26,10.83 34.08,4.5 24,4.5 Z"
+       id="path1"
+       style="fill:#1f8742;fill-opacity:1;stroke:#1f8742;stroke-width:1.00002;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="scccccss" />
+    <g
+       id="g10">
+      <line
+         class="cls-1"
+         x1="19.02"
+         y1="17.780001"
+         x2="28.98"
+         y2="17.780001"
+         id="line3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.92;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 23.954684,8.6538917 c 2.761424,0 5,2.2385763 5,5.0000003 v 4.15 h 0.71 c 0.513909,0.02511 0.924887,0.436091 0.95,0.95 v 0 7.25 c -0.02511,0.513909 -0.436091,0.924887 -0.95,0.95 h -11.4 c -0.513909,-0.02511 -0.924887,-0.436091 -0.95,-0.95 v 0 -7.27 c 0.02511,-0.513909 0.436091,-0.924887 0.95,-0.95 h 0.69 v -4.15 c 0.01102,-2.75361 2.246368,-4.9800223 5,-4.9800003 z"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.92;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-9" />
+    </g>
+  </g>
+</svg>
