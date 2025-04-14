@@ -1,6 +1,9 @@
 {
-    "phone": "(+xx) xxxxx xxxxx",
-    "emails": ["my@privatemail.com", "my@workmail.com"],
-    "mastodon": "link to mastodon profile",
-    "threema": "link to threema profile"
+    "name": "xxxxxx",
+    "title": "xxxx",
+    "phone": "xxxx",
+    "emails": ["xxxx", "xxxx"],
+    "mastodon": "xxxxx",
+    "threema": "xxxxx",
+    "address": "xxxxxx"
 }
